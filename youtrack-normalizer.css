@@ -19,6 +19,7 @@
 .issue-summary_fsi, .issueId_fsi {
   font-weight: normal !important;
   font-size: 22px !important;
+  color: #333 !important;
 }
 
 /* fix issue property names font — should be readable (as before) */
