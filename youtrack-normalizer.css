@@ -1,5 +1,5 @@
-body {
-  -webkit-font-smoothing: subpixel-antialiased !important;
+html, body, input, textarea, .combobox, .btn, .jt-button, .jt-button-default {
+  font-family: arial, tahoma, verdana, sans-serif;
 }
 
 /* issue body */
