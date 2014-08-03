@@ -3,7 +3,7 @@ html, body, input, textarea, .combobox, .btn, .jt-button, .jt-button-default {
 }
 
 /* issue body */
-.fsi-card {
+.fsi-card, .issueContainer, .issueContainer_fsi  {
   /* remove background */
   background: white !important;
   /* remove border */
